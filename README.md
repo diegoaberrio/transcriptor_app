@@ -53,14 +53,6 @@ python main.py
 
 ---
 
-## 🖥 Capturas de Pantalla
-
-| Inicio | Transcripción | Exportaciones |
-|--------|--------------|---------------|
-| ![Inicio](REEMPLAZAR_URL_IMAGEN_INICIO) | ![Transcripción](REEMPLAZAR_URL_IMAGEN_TRANSCRIPCION) | ![Exportaciones](REEMPLAZAR_URL_IMAGEN_EXPORTACIONES) |
-
----
-
 ## 🛠 Tecnologías Utilizadas
 ### **🔹 Backend**
 - **Python 3.8+**
