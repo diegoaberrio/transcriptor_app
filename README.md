@@ -5,8 +5,9 @@
 ## 🖼️ Screenshot
 
 <p align="center">
-  <img src="./assets/screenshot.png" alt="App Screenshot" width="900" />
+  <img src="./AudioFlow_Pro.png" alt="AudioFlow Pro UI" width="900" />
 </p>
+
  
 
 AudioFlow Pro es una aplicación de escritorio moderna para la transcripción de audio en español. Utiliza **OpenAI Whisper** para transcribir audios y proporciona herramientas avanzadas de exportación a **TXT, PDF, Excel** y **diagramas en Mermaid.js**.
