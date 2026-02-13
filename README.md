@@ -2,7 +2,12 @@
 
 > **Transcribe, procesa y exporta audios a texto con facilidad.**
 
-![AudioFlow Pro Banner](REEMPLAZAR_URL_BANNER)  
+## 🖼️ Screenshot
+
+<p align="center">
+  <img src="./assets/screenshot.png" alt="App Screenshot" width="900" />
+</p>
+ 
 
 AudioFlow Pro es una aplicación de escritorio moderna para la transcripción de audio en español. Utiliza **OpenAI Whisper** para transcribir audios y proporciona herramientas avanzadas de exportación a **TXT, PDF, Excel** y **diagramas en Mermaid.js**.
 
